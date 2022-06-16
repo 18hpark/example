@@ -3,6 +3,6 @@
 
 
 int main(int argc, char * argv[]){
-  printf("recursion rocks\n");
+  printf("recursion\n");
   return 0;
 }
